@@ -68,6 +68,7 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
           str1,
           str2]
 
+          
 }
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
